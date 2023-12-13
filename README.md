@@ -5,8 +5,8 @@ This repository contains code for simulating the control system of a Reaction Wh
 
 ## Contents
 - `README.md` : Introduction and instructions.
-- `Project.py` : Python code implementing the Continuous simulation.
-- `Project.ipynb` : Python code implementing the Discrete simulation.
+- `Reaction Wheel Simulation.py` : Python code implementing the Continuous simulation.
+- `Characteristic of Reaction Wheel.ipynb` : Python code implementing the Discrete simulation.
 
 ## Usage
 
