@@ -44,10 +44,10 @@ This repository contains code for simulating the control system of a Reaction Wh
     Execute the simulation code to observe the control system in action :
 
     ```
-    Project.py
+    Reaction Wheel Simulation.py
     ```
     ```
-    Project.ipynb
+    Characteristic of Reaction Wheel.ipynb
     ```
 
 ## Methodology
